@@ -1,4 +1,5 @@
-module NBA_API
+# encoding: utf-8
+module NBAAPI
 
   class Base
 
